@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/commons-csv-1.5">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Denislav-PC/workspace/Stanislava_Tercheva_HangmanGame/Stanislava_Tercheva_HangmanGame"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/commons-csv-1.5-sources">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Denislav-PC/workspace/Stanislava_Tercheva_HangmanGame/Stanislava_Tercheva_HangmanGame"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/opencsv-4.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Commons"/>
+	<classpathentry kind="lib" path="C:/Users/Denislav-PC/workspace/Stanislava_Tercheva_HangmanGame/Stanislava_Tercheva_HangmanGame/commons-csv-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Denislav-PC/workspace/Stanislava_Tercheva_HangmanGame/Stanislava_Tercheva_HangmanGame/commons-csv-1.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Denislav-PC/workspace/Stanislava_Tercheva_HangmanGame/Libraries/commons-csv-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Denislav-PC/workspace/Stanislava_Tercheva_HangmanGame/Libraries/commons-csv-1.5-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
